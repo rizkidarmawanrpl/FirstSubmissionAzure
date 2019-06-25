@@ -26,7 +26,7 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "<Nama server database Anda>";
+    /* $host = "<Nama server database Anda>";
     $user = "<Nama admin database Anda>";
     $pass = "<Password admin database Anda>";
     $db = "<Nama database Anda>";
@@ -83,7 +83,7 @@
         } catch(Exception $e) {
             echo "Failed: " . $e;
         }
-    }
+    } */
  ?>
  </body>
  </html>
