@@ -1,4 +1,4 @@
-# a83-macd-labs
+# FirstSubmissionAzure
 Source code untuk kelas Azure.
 Menggunakan projek aplikasi web dengan memanfaatkan projek yang sudah ada (tautan yang disediakan).
 
