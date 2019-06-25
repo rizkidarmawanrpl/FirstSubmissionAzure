@@ -26,12 +26,12 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    /* $host = "<Nama server database Anda>";
-    $user = "<Nama admin database Anda>";
+    $host = "erdeprofserver.database.windows.net";
+    $user = "erdeprof";
     $pass = "<Password admin database Anda>";
-    $db = "<Nama database Anda>";
+    $db = "firstsubmissiondb";
 
-    try {
+    /* try {
         $conn = new PDO("sqlsrv:server = $host; Database = $db", $user, $pass);
         $conn->setAttribute( PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION );
     } catch(Exception $e) {
